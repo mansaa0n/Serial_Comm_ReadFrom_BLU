@@ -2,4 +2,6 @@
 Python code to read data from bluetooth (Serial Comm.)
 This code is designed to continuously read data from serial port.
 
-Note: tested on bluetooth modual HM-10
+Note: 
+    -Using Micropython board v1.1
+    -tested on bluetooth modual HM-10
